@@ -1,0 +1,6 @@
+@BowlerTeam_HostAddress = http://localhost:5195
+
+GET {{BowlerTeam_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

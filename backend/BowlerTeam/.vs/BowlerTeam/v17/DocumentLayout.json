@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\data\\efteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:data\\efteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\data\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:data\\iteamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:models\\bowlingleaguecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\controllers\\bowlerteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:controllers\\bowlerteamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:models\\bowler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|c:\\users\\jwtay\\source\\repos\\mission10_taylor\\backend\\bowlerteam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{77B71EEB-35CA-4470-A17E-BAD58CD3A186}|BowlerTeam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T05:21:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T05:05:18.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:43:25.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bowler.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\Bowler.cs",
+              "RelativeDocumentMoniker": "Models\\Bowler.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\Bowler.cs",
+              "RelativeToolTip": "Models\\Bowler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:42:38.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BowlerTeamController.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Controllers\\BowlerTeamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BowlerTeamController.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Controllers\\BowlerTeamController.cs",
+              "RelativeToolTip": "Controllers\\BowlerTeamController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:47:51.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:38:19.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BowlingLeagueContext.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\BowlingLeagueContext.cs",
+              "RelativeDocumentMoniker": "Models\\BowlingLeagueContext.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Models\\BowlingLeagueContext.cs",
+              "RelativeToolTip": "Models\\BowlingLeagueContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:26:08.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Data\\ITeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\ITeamRepository.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Data\\ITeamRepository.cs",
+              "RelativeToolTip": "Data\\ITeamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:37:30.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EFTeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Data\\EFTeamRepository.cs",
+              "RelativeDocumentMoniker": "Data\\EFTeamRepository.cs",
+              "ToolTip": "C:\\Users\\jwtay\\source\\repos\\Mission10_Taylor\\backend\\BowlerTeam\\Data\\EFTeamRepository.cs",
+              "RelativeToolTip": "Data\\EFTeamRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T16:37:08.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
